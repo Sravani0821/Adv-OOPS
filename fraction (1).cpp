@@ -1,37 +1,3 @@
-//**************************************************************
-// Homework #3
-// Name: Sravani Seelam and Ashritha Parupati
-// Date of Submission - 11/10/2024
-//***************************************************************
-//
-// General Program Documentation
-//
-// Purpose:
-// This program defines and implements a fraction class for representing
-// and manipulating fractions with basic arithmetic, comparison, and 
-// utility functions. It supports addition, subtraction, multiplication,
-// and division of fractions, as well as comparison operators for ordering 
-// and equality. The program also allows conversion of fractions to 
-// floating-point representation.
-//
-// How to Run the Program: 
-// - Keep all files in a folder. 
-// - Open the folder in microsoft visual studio 2022 to run the program.
-//
-// Input Format:
-// The program expects fractions in the format "numerator/denominator".
-// If a whole number is provided, the program will interpret it as
-// "whole_number/1". Invalid input, such as zero denominators, will result
-// in an error.
-//
-// Filenames:
-// This program uses the following files:
-// - fraction.h: Header file containing the class definition and function
-//   declarations for the Fraction class.
-// - fraction.cpp: Source file implementing the functions defined in
-//   fraction.h.
-//
-//*****************************************************************
 #include "fraction.h"
 #include <stdexcept>
 #include <cmath>

@@ -1,14 +1,3 @@
-//****************************************************************************
-// Homework #3
-// Name: Sravani Seelam and Ashritha Parupati
-// Date of Submission - 11/10/2024
-//****************************************************************************
-// This header file defines a fraction class that represents fractions
-// and supports basic arithmetic and comparison operations. This class
-// offers functionality such as addition, subtraction, multiplication,
-// division, negation, reciporocal, exponentiation and comparison of fractions. 
-//*****************************************************************************
-
 #ifndef FRACTION_H
 #define FRACTION_H
 
